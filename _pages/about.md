@@ -23,7 +23,7 @@ Y-You...that's not what you're here for? Oh....never mind then \**laughing awkwa
 
 About me
 ===
-I'm a computer science student at TU Darmstadt, currently writing my master's thesis on closing the gap between monolingual and multilingual language models by utilizing residual adapters under supervision of Ph.D. student [Jonas Pfeiffer](https://pfeiffer.ai) and [Prof. Dr. Iryna Gurevych](https://scholar.google.com/citations?user=t3A39e8AAAAJ).
+I'm a computer science student at TU Darmstadt, currently writing my master's thesis on lifting the curse of multilinguality (i.e. closing the performance gap between monolingual and multilingual language models) by utilizing residual adapters under supervision of Ph.D. student [Jonas Pfeiffer](https://pfeiffer.ai) and [Prof. Dr. Iryna Gurevych](https://scholar.google.com/citations?user=t3A39e8AAAAJ).
 I'm interested in a broad range of natural language processing and machine learning research topics, including but not limited to:
 + Multilingual learning
 + Low-Resource NLP
