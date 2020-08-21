@@ -23,12 +23,12 @@ Y-You...that's not what you're here for? Oh....never mind then \**laughing awkwa
 
 About me
 ===
-I'm a Computer Science student at TU Darmstadt, currently writing my master's thesis on closing the gap between monolingual and multilingual language models by utilizing residual adapters under supervision of Ph.D. student [Jonas Pfeiffer](https://pfeiffer.ai) and [Prof. Dr. Iryna Gurevych](https://scholar.google.com/citations?user=t3A39e8AAAAJ).
+I'm a computer science student at TU Darmstadt, currently writing my master's thesis on closing the gap between monolingual and multilingual language models by utilizing residual adapters under supervision of Ph.D. student [Jonas Pfeiffer](https://pfeiffer.ai) and [Prof. Dr. Iryna Gurevych](https://scholar.google.com/citations?user=t3A39e8AAAAJ).
 I'm interested in a broad range of natural language processing and machine learning research topics, including but not limited to:
-+ Multilingual Learning
++ Multilingual learning
 + Low-Resource NLP
-+ Commonsense Reasoning
-+ Generative Modeling
++ Commonsense reasoning
++ Generative modeling
 + Interpretable AI
 
 Contrary to popular belief I am in fact not related by blood to [the programming language](https://en.wikipedia.org/wiki/Rust_(programming_language)), [the video game](https://en.wikipedia.org/wiki/Rust_(video_game)), or [the beautiful small town in Germany](https://en.wikipedia.org/wiki/Rust,_Baden-W%C3%BCrttemberg), home of the country's largest theme park Europa-Park. 
