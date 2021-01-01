@@ -8,28 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<!--
-The well-kept secret
-===
-I know that *you*, my dear visitor, are here trying to solve one of the greatest mysteries of the universe. A question so profound that not even Aristoteles was able to answer. To be honest, I was hesitant to tell you at first. It's a secret I've guarded closely for at least 42 years, but you seem genuinely nice, so I'm willing to make an exception. 
-
-I'll make it short: No, I am in fact not related by blood to [the programming language](https://en.wikipedia.org/wiki/Rust_(programming_language)), [the video game](https://en.wikipedia.org/wiki/Rust_(video_game)), or [the beautiful small town in Germany](https://en.wikipedia.org/wiki/Rust,_Baden-W%C3%BCrttemberg), home of the country's largest theme park Europa-Park. However, I have travelled to Rust before and both learning the language and playing the video game are somewhere in the lower middle part of my bucket list. 
-
-... \**whispering*\* ... 
-
-Y-You...that's not what you're here for? Oh....never mind then \**laughing awkwardly*\*. I mean, I knew that of course...
-
--->
-
 About me
 ===
-I'm a computer science student at TU Darmstadt, currently writing my master's thesis under supervision of Ph.D. student [Jonas Pfeiffer](https://pfeiffer.ai) and [Prof. Dr. Iryna Gurevych](https://scholar.google.com/citations?user=t3A39e8AAAAJ). My thesis deals with lifting the curse of multilinguality, i.e. closing the performance gap between monolingual and multilingual language models, by utilizing residual adapters.
+I'm a computer science student at TU Darmstadt, currently writing my master's thesis under the supervision of PhD student [Jonas Pfeiffer](https://pfeiffer.ai) and [Prof. Dr. Iryna Gurevych](https://scholar.google.com/citations?user=t3A39e8AAAAJ).
 
-I'm interested in a broad range of natural language processing and machine learning research topics, including but not limited to:
-+ Multilingual learning
-+ Low-Resource NLP
-+ Commonsense reasoning
-+ Generative modeling
-+ Interpretable AI
+My main areas of interest are machine learning & natural language processing, particularly in multilingual, cross-lingual, multi-modal (language & vision), and low-resource settings. 
 
-Contrary to popular belief I am in fact not related by blood to [the programming language](https://en.wikipedia.org/wiki/Rust_(programming_language)), [the video game](https://en.wikipedia.org/wiki/Rust_(video_game)), or [the beautiful small town in Germany](https://en.wikipedia.org/wiki/Rust,_Baden-W%C3%BCrttemberg), home of the country's largest theme park Europa-Park. 
+Contrary to popular belief I am not related by blood to [the programming language](https://en.wikipedia.org/wiki/Rust_(programming_language)), [the video game](https://en.wikipedia.org/wiki/Rust_(video_game)), or [the beautiful small town in Germany](https://en.wikipedia.org/wiki/Rust,_Baden-W%C3%BCrttemberg), home of the country's largest theme park Europa-Park. 
