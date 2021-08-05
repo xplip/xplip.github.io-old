@@ -105,6 +105,7 @@ author:
   linkedin         : "phillip-rust"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
+  semanticscholar  : "https://www.semanticscholar.org/author/Phillip-Rust/1660797358"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
@@ -218,7 +219,7 @@ defaults:
   #    author_profile: true
   #    share: true
   #    comments: true
-  # _publications
+  _publications
   - scope:
       path: ""
       type: publications
@@ -228,14 +229,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
   #- scope:
   #    path: ""
