@@ -11,7 +11,7 @@ redirect_from:
 
 Feel free to take a look at my CV [here][1]. I try to keep this version updated.
 
-[1]:{{ site.url }}/files/prust_cv_aug21.pdf
+[1]:{{ site.url }}/files/prust_cv_mar22.pdf
 
 <!--
 
