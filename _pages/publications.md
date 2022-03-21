@@ -9,7 +9,7 @@ You can also find my articles on <a href="https://www.semanticscholar.org/author
 
 {% include base_path %}
 
-<p>Daniel Hershcovich, Stella Frank, Heather Lent, Miryam de Lhoneux, Mostafa Abdou, Stephanie Brandl, Emanuele Bugliarello, Laura Cabello Piqueras, Ilias Chalkidis, Ruixiang Cui, Constanza Fierro, Katerina Margatina, <b>Phillip Rust</b>, Anders Søgaard (2022). <a href="">Challenges and Strategies in Cross-Cultural NLP</a>. In <i>Proceedings of ACL 2022</i>.</p>
+<p>Daniel Hershcovich, Stella Frank, Heather Lent, Miryam de Lhoneux, Mostafa Abdou, Stephanie Brandl, Emanuele Bugliarello, Laura Cabello Piqueras, Ilias Chalkidis, Ruixiang Cui, Constanza Fierro, Katerina Margatina, <b>Phillip Rust</b>, Anders Søgaard (2022). <a href="https://arxiv.org/abs/2203.10020">Challenges and Strategies in Cross-Cultural NLP</a>. In <i>Proceedings of ACL 2022</i>.</p>
 
 <p><b>Phillip Rust</b>*, Jonas Pfeiffer*, Ivan Vulić, Sebastian Ruder, Iryna Gurevych (2021). <a href="https://aclanthology.org/2021.acl-long.243/">How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models</a>. In <i>Proceedings of ACL 2021</i>.<p>
 
