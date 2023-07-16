@@ -12,7 +12,7 @@ About me
 ===
 I am a PhD student in the [CoAStaL](https://coastalcph.github.io/) natural language processing research group led by [Anders Søgaard](https://anderssoegaard.github.io/) at the University of Copenhagen. I also collaborate closely with [Desmond Elliott](https://elliottd.github.io/) and the [LAMP](https://elliottd.github.io/lamp_about.html) group. The goals of my research are to better understand the language models we are using today and to develop language models that exhibit strong (multilingual) generalization and trustworthiness. In particular, I am currently really interested in alternatives to subword tokenization for multilingual language models.
 
-From June to December 2023, I will do a Research Scientist Internship with [Jean Maillard](http://www.maillard.it/) at [Meta (FAIR)](https://research.facebook.com/) in Menlo Park.
+From June to December 2023, I will do a Research Scientist Internship with [Jean Maillard](http://www.maillard.it/) at [Meta AI (FAIR)](https://ai.meta.com/) in Menlo Park.
 
 
 My PhD is funded through a grant by the Novo Nordisk Foundation. As part of the funded project I develop robust recognition models to digitize historical handwritten records that will be used to establish a [multigenerational registry](https://novonordiskfonden.dk/en/news/kunstig-intelligens-skal-kortlaegge-danskernes-stam-trae-og-styrke-forskning/) of Danish family relationships.
