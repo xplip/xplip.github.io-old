@@ -11,7 +11,7 @@ You can also find my articles on <a href="https://www.semanticscholar.org/author
 
 <p><b>Phillip Rust</b>, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott (2023). <a href="https://openreview.net/forum?id=FkSp8VW8RjH">Language Modelling with Pixels</a>. In <i>ICLR 2023 <span style="color: #52adc8">(notable-top-5%)</span></i>.</p>
 
-<p><b>Phillip Rust</b>, Anders Søgaard (2023). <a href="https://proceedings.mlr.press/v202/rust23a/rust23a.pdf">Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models</a>. In <i>ICML 2023</i>.</p>
+<p><b>Phillip Rust</b>, Anders Søgaard (2023). <a href="https://arxiv.org/abs/2308.08774">Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models</a>. In <i>ICML 2023</i>.</p>
 
 <p>Laura Cabello Piqueras*, Constanza Fierro*, Jonas F. Lotz*, <b>Phillip Rust</b>*, Joen Rommedahl, Jeppe Klok Due, Christian Igel, Desmond Elliott, Carsten B. Pedersen, Israfel Salazar, Anders Søgaard (2022). <a href="https://link.springer.com/chapter/10.1007/978-3-031-21648-0_4">Date Recognition in Historical Parish Records</a>. In <i>Frontiers in Handwriting Recognition (ICFHR) 2022</i>.</p>
 
