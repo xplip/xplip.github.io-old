@@ -11,8 +11,7 @@ You can also find my articles on <a href="https://www.semanticscholar.org/author
 
 <p>Nadav Borenstein, <b>Phillip Rust</b>, Desmond Elliott, Isabelle Augenstein (2023). <a href="https://arxiv.org/abs/2310.18343">PHD: Pixel-Based Language Modeling of Historical Documents</a>. In <i>EMNLP 2023</i>.</p>
 
-<p>Jonas F. Lotz, Elizabeth Salesky, <b>Phillip Rust</b>, Desmond Elliott (2023). <a href="https://arxiv.org/abs/2311.00522">Text Rendering Strategies for Pixel Language Models
-</a>. In <i>EMNLP 2023</i>.</p>
+<p>Jonas F. Lotz, Elizabeth Salesky, <b>Phillip Rust</b>, Desmond Elliott (2023). <a href="https://arxiv.org/abs/2311.00522">Text Rendering Strategies for Pixel Language Models</a>. In <i>EMNLP 2023</i>.</p>
 
 <p><b>Phillip Rust</b>, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott (2023). <a href="https://openreview.net/forum?id=FkSp8VW8RjH">Language Modelling with Pixels</a>. In <i>ICLR 2023 <span style="color: #52adc8">(notable-top-5%)</span></i>.</p>
 
