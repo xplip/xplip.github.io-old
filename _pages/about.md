@@ -24,7 +24,7 @@ Contrary to popular belief, I am not related to [the programming language](https
 ### News:
 
 - (10/23) Two papers accepted to [EMNLP 2023](https://2023.emnlp.org/)
-- (06/23) Started a research internship at [FAIR](https://ai.meta.com/research/) in Menlo Park, working with Jean Maillard on the [Seamless](https://ai.meta.com/blog/seamless-m4t/) team.
+- (06/23) Started a research internship at [FAIR](https://ai.meta.com/research/) in Menlo Park
 - (04/23) One paper accepted to [ICML 2023](https://icml.cc/)
 - (03/23) Attended the [HumanCLAIM](https://clap-lab.github.io/workshop) Workshop in Amsterdam, Netherlands
 - (03/23) Presented in the [ML Collective](https://mlcollective.org/community/) Reading Group (NLP & CV)
