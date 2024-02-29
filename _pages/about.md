@@ -14,7 +14,7 @@ I am a PhD student in the [CoAStaL](https://coastalcph.github.io/) natural langu
 
 My PhD is funded through a grant by the Novo Nordisk Foundation. As part of the funded project I develop robust recognition models to digitize historical handwritten records that will be used to establish a [multigenerational registry](https://novonordiskfonden.dk/en/news/kunstig-intelligens-skal-kortlaegge-danskernes-stam-trae-og-styrke-forskning/) of Danish family relationships.
 
-Previously, I completed my master's in computer science at the Technical University of Darmstadt, where I wrote my thesis under the supervision of [Jonas Pfeiffer](https://pfeiffer.ai) and [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp).
+Before my PhD, I did a master's in computer science at the Technical University of Darmstadt, where I wrote my thesis under the supervision of [Jonas Pfeiffer](https://pfeiffer.ai) and [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp).
 
 Contrary to popular belief, I am not related to [the programming language](https://en.wikipedia.org/wiki/Rust_(programming_language)), [the video game](https://en.wikipedia.org/wiki/Rust_(video_game)), or [the home of the Europa-Park](https://en.wikipedia.org/wiki/Rust,_Baden-W%C3%BCrttemberg). My favorite internet cat is Floppa. I'm also a big fan of Capybaras.
 
