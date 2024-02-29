@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Phillip Rust"
   avatar           : "profile.jpg"
-  bio              : "I like machine learning, natural language processing, and cats."
+  bio              : 
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : 
