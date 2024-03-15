@@ -6,12 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 #redirect_to: 
-#  - /files/phillip_rust_resume_feb2024.pdf
+#  - /files/phillip_rust_resume_mar2024.pdf
 ---
 
 Feel free to take a look at my CV [here][1]. I try to keep this version updated.
 
-[1]:{{ site.url }}/files/phillip_rust_resume_feb2024.pdf
+[1]:{{ site.url }}/files/phillip_rust_resume_mar2024.pdf
 
 <!--
 
