@@ -9,7 +9,7 @@ You can also find my articles on <a href="https://www.semanticscholar.org/author
 
 {% include base_path %}
 
-<p><b>Phillip Rust</b>, Bowen Shi, Skyler Wang, Necati Cihan Camgöz, Jean Maillard (2024). <a href="https://arxiv.org/abs/2402.09611">Towards Privacy-Aware Sign Language Translation at Scale</a>. <i>arXiv preprint</i>.</p>
+<p><b>Phillip Rust</b>, Bowen Shi, Skyler Wang, Necati Cihan Camgöz, Jean Maillard (2024). <a href="https://arxiv.org/abs/2402.09611">Towards Privacy-Aware Sign Language Translation at Scale</a>. <i>ACL 2024 (to appear) </i>.</p>
 
 <p>Nadav Borenstein, <b>Phillip Rust</b>, Desmond Elliott, Isabelle Augenstein (2023). <a href="https://arxiv.org/abs/2310.18343">PHD: Pixel-Based Language Modeling of Historical Documents</a>. In <i>EMNLP 2023</i>.</p>
 
