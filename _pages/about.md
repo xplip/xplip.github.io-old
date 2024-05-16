@@ -20,6 +20,7 @@ Contrary to popular belief, I am not related to [the programming language](https
 
 ### News:
 
+- (05/24) One paper accepted to [ACL 2024](https://2024.aclweb.org/)
 - (10/23) Two papers accepted to [EMNLP 2023](https://2023.emnlp.org/)
 - (06/23) Started a research internship at [FAIR](https://ai.meta.com/research/) in Menlo Park
 - (04/23) One paper accepted to [ICML 2023](https://icml.cc/)
